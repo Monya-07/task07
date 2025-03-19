@@ -58,9 +58,8 @@ body {
   margin: px;
   padding: 70px;
   top: 70px; 
-  left: 65%;
-  max-width: 50px;
-  line-height: 1
+  left: 40%;
+  max-width: 50%;
 }
 .container{
   display:flex;
