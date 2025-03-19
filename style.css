@@ -1,17 +1,15 @@
-.hacker{
-  align-items: center;
-  position: relative;
-  top: px;
-  left:50px;
+.hacker {
   width: 250px;
-  height:auto;
+  height: auto;
 }
-body{
-  display: flex-flow;
-  justify-content: bottm;
-  align-items: ceter;
+
+body {
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-start;
+  align-items: center;
   height: 100vh;
-  background-color: mediumpurple ;
+  background-color: mediumpurple;
   margin: 0;
   padding: 0;
 }
@@ -59,6 +57,12 @@ body{
   padding: 70px;
   top: 70px; 
   left: 65%;
-  max-width: 240px;
+  max-width: 50px;
   line-height: 1
+}
+.container{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  gap:10px;
 }
