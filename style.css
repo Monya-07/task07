@@ -1,26 +1,64 @@
 .hacker{
   align-items: center;
   position: relative;
-  top: 1000px;
+  top: px;
   left:50px;
-
+  width: 250px;
+  height:auto;
 }
-bdy{
-  display: fle;
+body{
+  display: flex-flow;
   justify-content: bottm;
   align-items: ceter;
   height: 100vh;
-  background-color:lightblue ;
+  background-color: mediumpurple ;
   margin: 0;
+  padding: 0;
 }
 .about{
-  justify-content:cente;
-  align-items: cente;
-  position: relativ;
+  justify-content:center;
+  align-items: center;
+  position: relative;
   padding: 7px;
-  background-color: blueviolet;
-  margin:px;
+  background-color: rebeccapurple;
+  margin:0px;
+  width: 103%;
+  color: whitesmoke;
+}
+.header{
+  background-color: black;
+  color: whitesmoke;
+  margin: 0;
+  padding:4px;
+  width: 104%;
+}
+.footer{
+ justify-content:bottom;
+  align-items: center;
+  position: relative;
+  padding: 7px;
+  background-color: rebeccapurple;
+  margin:0px;
+  width: 103%;
+  color: whitesmoke;
 }
 *{
-  
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fa-solid {
+    position: absolute;
+    top: 25px; 
+    left: 0%;
+    font-size: 24px;
+    color: white;
+}
+.text{
+  color: ghostwhite;
+  position: relative;
+  margin: px;
+  padding: 70px;
+  top: 70px; 
+  left: 65%;
+  max-width: 240px;
+  line-height: 1
 }
