@@ -1,6 +1,8 @@
 .hacker {
+  position: absolute;
   width: 250px;
   height: auto;
+  left: 7%;
 }
 
 body {
