@@ -1,0 +1,26 @@
+.hacker{
+  align-items: center;
+  position: relative;
+  top: 1000px;
+  left:50px;
+
+}
+bdy{
+  display: fle;
+  justify-content: bottm;
+  align-items: ceter;
+  height: 100vh;
+  background-color:lightblue ;
+  margin: 0;
+}
+.about{
+  justify-content:cente;
+  align-items: cente;
+  position: relativ;
+  padding: 7px;
+  background-color: blueviolet;
+  margin:px;
+}
+*{
+  
+}
