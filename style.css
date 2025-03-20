@@ -1,8 +1,9 @@
 .hacker {
   position: absolute;
   width: 250px;
-  height: auto;
-  left: 7%;
+  height: 200px;
+  left: 5%;
+  margin-bottom: 50px;
 }
 
 body {
@@ -11,7 +12,7 @@ body {
   justify-content: flex-start;
   align-items: center;
   height: 100vh;
-  background-color: mediumpurple;
+  background-color: #6D32A8;
   margin: 0;
   padding: 0;
 }
@@ -20,7 +21,7 @@ body {
   align-items: center;
   position: relative;
   padding: 7px;
-  background-color: rebeccapurple;
+  background-color: #4B1E6F;
   margin:0px;
   width: 103%;
   color: whitesmoke;
@@ -37,7 +38,7 @@ body {
   align-items: center;
   position: relative;
   padding: 7px;
-  background-color: rebeccapurple;
+  background-color: #4B1E6F;
   margin:0px;
   width: 103%;
   color: whitesmoke;
@@ -57,7 +58,7 @@ body {
   position: relative;
   margin: px;
   padding: 70px;
-  top: 70px; 
+  top: 37px; 
   left: 40%;
   max-width: 50%;
 }
@@ -65,5 +66,16 @@ body {
   display:flex;
   align-items: center;
   justify-content: center;
-  gap:10px;
+  gap:;
+  margin: 10%;
+  padding: 1%;
+}
+.logo{
+  position: relative;
+  top: 205px; 
+  left: 0%;
+  font-size: 24px;
+  color: ghostwhite;
+  margin: 10px;
+  row-gap: 10%;
 }
