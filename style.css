@@ -66,8 +66,7 @@ body {
   display:flex;
   align-items: center;
   justify-content: center;
-  gap:;
-  margin: 10%;
+  margin: 100px;
   padding: 1%;
 }
 .logo{
